@@ -13,7 +13,7 @@
       "property_response": {
         "buyer": "Robert Fox",
         "buyer_contact": "62955-50129",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
       "property_type": "Town House",
       "property_post_date": " 1 Jan 2023",
@@ -32,13 +32,13 @@
     },
     {
       "prop_id": 2,
-      "Price": 90,
+      "Price": 70,
       "prop_name": " HCS Nature Plus ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Amritsar",
         "Country": "India",
-        "pincode": 17108
+        "pincode": 14108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
@@ -56,24 +56,24 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://img.squareyards.com/secondaryPortal/638200493531227605-1805231129132913.jpg",
+      "prop_image_small1": "https://rei.wlimg.com/prop_images/95974/883036_7.jpeg",
+      "prop_image_small2": "https://i.ytimg.com/vi/6AfS4dJntRs/maxresdefault.jpg"
     },
     {
       "prop_id": 3,
-      "Price": 90,
+      "Price": 80,
       "prop_name": " Buildwick Nature Plus  ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Raipur",
         "Country": "India",
-        "pincode": 17108
+        "pincode": 17109
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+      "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
       "property_type": "Town House",
 
@@ -87,19 +87,19 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://im.proptiger.com/1/1963025/6/mulberry-phase-2-elevation-105084366.jpeg",
+      "prop_image_small1": "https://img.staticmb.com/mbphoto/property/cropped_images/2019/Jun/22/Photo_h300_w450/40279473_9_6FBCC398-F768-42E6-B7F9-826C22B92E9F_300_450.jpeg",
+      "prop_image_small2": "https://th.bing.com/th/id/OIP.r7pIeLLchWEEm5q7D1YoZQAAAA?rs=1&pid=ImgDetMain"
     },
     {
       "prop_id": 4,
-      "Price": 90,
+      "Price": 75,
       "prop_name": " Pristine Privana ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Delhi",
         "Country": "India",
-        "pincode": 17108
+        "pincode": 14100
       },
       "property_response": {
         "buyer": "Guy Hawkins",
@@ -117,27 +117,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://th.bing.com/th/id/R.71a169a1e26e8c155370ae0e2af1adc4?rik=pWO0xM3Jh7x2zg&riu=http%3a%2f%2fwww.lavanyamotel.com%2fimg%2ffarm-house%2ffarm-house-1.jpg&ehk=P4%2bmTbu3C6o1Lk7LSUmKbk0IDRMtxBOG%2b9%2bnDZeJfa8%3d&risl=&pid=ImgRaw&r=0",
+      "prop_image_small1": "https://i.pinimg.com/originals/e1/9f/cd/e19fcdeefe7963914333dca26943d7fd.jpg",
+      "prop_image_small2": "https://img3.exportersindia.com/product_images/bc-full/dir_152/4530577/pvc-room-furniture-02-1491552031_p_2816841_550308.jpeg"
     },
     {
       "prop_id": 5,
-      "Price": 90,
+      "Price": 60,
       "prop_name": " JSS Sai Sky Villa Apartments ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Hyderabad",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -148,27 +148,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://career.webindia123.com/career/institutes/aspupload/Uploads/gujarat/25894/2_main.jpg",
+      "prop_image_small1": "https://th.bing.com/th/id/OIP.Q8kP-D-7cIrbM1Y5YVE5bgHaEH?w=900&h=500&rs=1&pid=ImgDetMain",
+      "prop_image_small2": "https://www.ludhianaheights.com/wp-content/uploads/2021/09/gallery2-bg.jpg"
     },
     {
       "prop_id": 6,
-      "Price": 90,
+      "Price": 80,
       "prop_name": "Galaxy Residency ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Raipur",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -179,27 +179,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://www.tourmyindia.com/blog/wp-content/uploads/2016/08/Sunrise-Health-Resort.jpeg",
+      "prop_image_small1": "https://www.ludhianaheights.com/wp-content/uploads/2021/09/gallery1-bg.jpg",
+      "prop_image_small2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fe/82/5c/oyo-29345-hotel-samrat.jpg?w=1200&h=-1&s=1"
     },
     {
       "prop_id": 7,
-      "Price": 90,
+      "Price": 95,
       "prop_name": " TRT Homes  ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Lucknow",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -210,27 +210,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://dyimg2.realestateindia.com/proj_images/project9472/proj_img-9472_1-770x400.jpg",
+      "prop_image_small1": "https://navi.com/wp-content/uploads/2022/10/Elevation-Image-2-2.jpg",
+      "prop_image_small2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/ec/0f/a0/oyo-11097-hotel-grand.jpg?w=700&h=-1&s=1"
     },
     {
       "prop_id": 8,
-      "Price": 90,
+      "Price": 50,
       "prop_name": " RWA Greater Kailash 2",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Delhi",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -241,13 +241,13 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://www.ludhianaheights.com/wp-content/uploads/2021/09/banner1.jpg",
+      "prop_image_small1": "https://th.bing.com/th/id/OIP.wTT6Y7kmWbhFcdDdru8KpAHaEn?w=1621&h=1011&rs=1&pid=ImgDetMain",
+      "prop_image_small2": "https://media-cdn.tripadvisor.com/media/photo-s/24/22/b4/5c/standard-double-bed.jpg"
     },
     {
       "prop_id": 9,
-      "Price": 90,
+      "Price": 70,
       "prop_name": "Kiera London House  ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
@@ -258,10 +258,10 @@
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+      "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -272,9 +272,9 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://www.omaxe.com/public/projectgallery/gallery_1670836555781.jpg",
+      "prop_image_small1": "https://panasonic.net/electricworks/job-references/my_20_mirai/img/img_mirai_s02.jpg",
+      "prop_image_small2": "https://media-cdn.tripadvisor.com/media/photo-s/14/eb/48/88/oyo-10077-indrapuri.jpg"
     },
     {
       "prop_id": 10,
@@ -282,17 +282,17 @@
       "prop_name": "Ultraluxe Homes by Earthz  ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Amritsar",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -303,27 +303,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://www.planmyproperty.in/pics/blog/1562051659_top-eight-reasons-why-people-still-prefer-to-buy-2-bhk-flats-in-india.jpg",
+      "prop_image_small1": "https://cf.bstatic.com/xdata/images/hotel/max500/407719000.jpg?k=23ceab73b63fba5327e652ed4da7b5f3fe38b8bffac5909582ca012c4e5f8818&o=&hp=1",
+      "prop_image_small2": "https://th.bing.com/th/id/OIP.eRxbDzvuYnMVEmQvBlIeWwHaE8?w=1000&h=667&rs=1&pid=ImgDetMain"
     },
     {
       "prop_id": 11,
-      "Price": 90,
+      "Price": 60,
       "prop_name": " Maa Katyayani Homes ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Lucknow",
         "Country": "India",
-        "pincode": 17108
+        "pincode": 18108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -334,27 +334,27 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://c4.wallpaperflare.com/wallpaper/720/543/706/india-4k-full-hd-desktop-download-wallpaper-preview.jpg",
+      "prop_image_small1": "https://cdn.rnudah.com/images/plain/8ada73b5b04ac60e290e314fdb08d9e5-2888713579199071871.jpg",
+      "prop_image_small2": "https://skyheavenresort.com/wp-content/uploads/2016/09/DSC_8604.jpg"
     },
     {
       "prop_id": 12,
-      "Price": 90,
+      "Price": 75,
       "prop_name": "DDA Renovated Apartments ",
       "property_address": {
         "street": "2972 Westheimer Rd.",
-        "city": "Mumbai",
+        "city": "Raipur",
         "Country": "India",
         "pincode": 17108
       },
       "property_response": {
         "buyer": "Guy Hawkins",
         "buyer_contact": "31655-50116",
-        "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
+       "buyer_address": "3517 W Gray St. Utica Pennsyvania 57867"
       },
-      "property_type": "Town House",
-
+      "property_type":"Town House",
+      
       "property_post_date": " 1 Jan 2023",
       "Description": "A ready-to-move property can also help generate instant rental revenue if you do not want to relocate immediately. This revenue can help with repaying the EMIs and reducing the burden on your finances.The resale value is another crucial consideration when purchasing a new property online. Buyers frequently make the error of ignoring the resale value. You would have a good picture of how matters might turn out in the future or during a crisis if you kept track of the property's resale value. Knowing more about the property's value in the resale market can offer you considerable peace of mind regarding your future. When buying a property online, you can easily check the value of similar properties in the vicinity from different platforms.The eligibility for a home loan is one of the most crucial factors to consider for online home-buying in India. You can log on to the site of any of the banks or NBFCs to determine your eligibility for a home loan. Your loan eligibility will depend on several criteria, including income, current debts, and repayment capacity. You must also ensure that the property you intend to buy is on the approved list of the respective lender. The loan will not be approved if the property is not on the approved list.",
       "area": 400,
@@ -365,9 +365,9 @@
       "agent_call": "74897-78569",
       "agent_email": "agent@yahoo.com",
 
-      "prop_image_big": "https://luxuryproperties.in/wp-content/uploads/2019/07/Prestige-Golfshire-Villa-1.jpg",
-      "prop_image_small1": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_2.jpg",
-      "prop_image_small2": "https://dyimg2.realestateindia.com/prop_images/3285518/1223598_6.jpg"
+      "prop_image_big": "https://th.bing.com/th/id/OIP.Qtq0fUMQknqqJJB46K4zNAHaE8?rs=1&pid=ImgDetMain",
+      "prop_image_small1": "https://my1-cdn.pgimgs.com/listing/38784587/UPHO.220355927.V550/Wangsa-Heights-Ampang-Malaysia.jpg",
+      "prop_image_small2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/90466482.jpg?k=83fd7ee7e07c075b558d1b3a78fb21331779d1260e8984ac94a722d80636e38e&o=&hp=1"
     }
   ]
 }
