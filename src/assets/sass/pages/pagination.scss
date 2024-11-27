@@ -1,0 +1,98 @@
+.pagination {
+  border-top: 1px solid #eaecf0;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 63px;
+  padding-top: 20px;
+  align-items: center;
+
+  li {
+    margin: 0;
+
+    &.activePagination a {
+      background: #f9f5ff;
+      color: #7f56d9;
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-weight: bold;
+    }
+
+    a {
+      color: #3b3c4a;
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background-color 0.3s, color 0.3s;
+      display: inline-block;
+
+     
+    }
+
+    button {
+      color: #3b3c4a;
+      background: none;
+      border: none;
+      padding: 8px 12px;
+      cursor: pointer;
+      position: relative;
+      transition: background-color 0.3s, color 0.3s;
+      font-size: 14px;
+      font-weight: 500;
+      //font-family: "Inter", "sans-serif";
+      .css-i4bv87-MuiSvgIcon-root{
+        position: relative;
+        top: 6px;
+      }
+      &:disabled {
+        color: #ddd;
+      }
+
+    }
+  }
+
+  .pagination-links {
+    display: flex;
+    gap: 5px;
+  }
+}
+
+/* Extra Huge large desktops */
+@media (min-width: 1920px) {}
+
+/* Extra Huge large desktops */
+@media (min-width: 1680px) and (max-width: 1919px) {}
+
+/* Extra Huge large desktops */
+@media (min-width: 1600px) and (max-width: 1679px) {}
+
+/* Extra large desktops and mac laptops*/
+@media (min-width: 1400px) and (max-width: 1599px) {}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+   
+}
+
+/* Landscape tablets and ipad */
+@media (min-width: 768px) and (max-width: 991px) {
+   
+}
+
+/* Landscape phones and portrait tablets */
+@media (min-width: 576px) and (max-width: 767px) {
+    
+}
+
+/* Landscape phones and portrait tablets */
+@media (min-width: 361px) and (max-width: 575px) {
+   
+}
+
+/* Smaller phones */
+@media (max-width: 360px) {
+    
+}
+
+/* Smaller phones */
+@media (max-width: 320px) {}

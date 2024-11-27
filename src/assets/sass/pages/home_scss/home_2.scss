@@ -1,0 +1,100 @@
+.browser_properties {
+  
+  margin-bottom: 100px;
+  .properties_1 {
+    padding-left: 40px;
+    padding-top: 40px;
+    position: relative;
+    background: #f7f7fd;
+    border-radius: 10px;
+    border: 1.5px solid #E0DEF7;
+   
+    
+
+    .properties_details {
+      width: 311px;
+      max-width: 100%;
+      margin-bottom: 15px;
+      h3 {
+        padding-bottom: 16px;
+        //font-family: "Inter", sans-serif;
+        font-size: 25px;
+        font-weight: 700;
+        color: #1a1a1a;
+      }
+      p {
+        //font-family: "Inter", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25.6px;
+        
+        color: #4d5461;
+        width: 80%;
+        padding-bottom: 24px;
+      }
+      Button {
+        
+        font-family: "Plus Jakarta Sans", sans-serif;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 19.6px;
+        text-align: center;
+        text-transform: capitalize;
+        background: linear-gradient(90deg, #7e81e7 -12.81%, #0f40b2 100%);
+
+      }
+    }
+    .properties_home {
+      right: -75px;
+    height: 329px;
+    width: 397px;
+    position: relative;
+    z-index: 1;
+    bottom: -32px;
+
+      img {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+  .properties_2 {
+    padding-top: 60px;
+    padding-left: 58px;
+    .properties_upper{
+      margin-bottom: 50px;
+    }
+    .properties_p1 {
+  
+      padding-right: 20px;
+      .p1_image {
+        height: 80px;
+        width: 80px;
+        padding-bottom: 24px;
+        img {
+          height: 100%;
+          width: 100%;
+          object-fit: contain;
+        }
+      }
+      h4 {
+        //font-family: "Inter", sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 36px;
+        letter-spacing: -0.01em;
+     
+        padding-bottom: 16px;
+      }
+      p {
+        //font-family: "Inter", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 25.6px;
+        color: #4D5461;
+
+      }
+    }
+  }
+}

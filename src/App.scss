@@ -1,0 +1,35 @@
+/********************* FONT-FAMILY AND TOASTER ********************/
+// @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+/******************* COMMON CSS FILES ******************/
+@import "./assets/sass/base/variable.scss";
+@import "./assets/sass/base/mixins.scss";
+
+@import "./assets/sass/base/reset.scss";
+@import "./assets/sass/base/base.scss";
+
+
+
+// -------- For Screens ----------- //
+@import "./assets/sass/pages/login.scss";
+@import "./../src/assets/sass/pages/blogcomponent.scss";
+@import "./../src/assets/sass/pages/pagination.scss";
+@import "./../src/assets/sass/pages/singleblog.scss";
+@import "./../src/assets/sass/pages/contact.scss";
+@import "./../src/assets//sass/pages/contactpagetop.scss";
+@import "./../src/assets/sass/pages/home_scss/home_1.scss";
+@import "./../src/assets/sass/pages/home_scss/home_2.scss";
+@import "./../src/assets/sass/pages/home_scss/home_3.scss";
+@import "./../src/assets/sass/pages/home_scss/home_4.scss";
+@import "./../src/assets/sass/pages/home_scss/home_5.scss";
+@import "./assets/sass/pages/header.scss";
+@import "./assets/sass/pages/footer.scss";
+@import "./assets/sass/pages/about.scss";
+@import "./assets/sass/pages/searchbar.scss";
+@import "./assets/sass/pages/seller.scss";
+@import "./assets/sass/pages/singleblog.scss";
+@import "./assets/sass/pages/singleprop.scss";
+@import "./assets/sass/pages/propertycards.scss";
+@import "./assets/sass/pages/liked.scss";
+@import "./assets/sass/pages/buydetails.scss";
+@import "./assets/sass/pages/privacy.scss";
